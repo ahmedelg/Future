@@ -13,6 +13,7 @@
 7. Search about products.
 8. Search about jobs.
 ## Mockups
+![Introduction6](https://user-images.githubusercontent.com/46943991/148543030-1d44fd73-ecd7-4052-b1f0-3c86418bb8a9.png)
 ![Vectary texture10](https://user-images.githubusercontent.com/46943991/148503443-e6bc2878-61e3-49ca-b090-4b11ed39a02e.png)
 ![Vectary texture9](https://user-images.githubusercontent.com/46943991/148503546-31898104-b93a-4c34-a450-72fde39796d7.png)
 ![Vectary texture11](https://user-images.githubusercontent.com/46943991/148503741-4e797b69-5f45-40a9-bc23-d4af1a19cdf8.png)
