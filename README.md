@@ -1,5 +1,5 @@
 # A PRESPECTIVE OF THE FUTURE
-> `C2C` `WEB SCRAPING` `SEARCH ENGINE` `COURSERA` `UDEMY` `JOBs` `AMAZON` `NODE JS` `TS` `REACT JS`
+> `C2C` `WEB SCRAPING` `SEARCH ENGINE` `COURSERA` `UDEMY` `JOBs` `AMAZON` `NODE JS` `TS` `REACT JS` `NPM` `MODULES` `VISUALIZATION`
 ## Description 
 > Future app scrapes results from different websites `Jobs` `Courses` `Products`, that may do some processes & render it in an awesome interface.
 
