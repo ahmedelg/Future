@@ -1,7 +1,7 @@
 # A PRESPECTIVE OF THE FUTURE
 > `C2C` `WEB SCRAPING` `SEARCH ENGINE` `COURSERA` `UDEMY` `JOBs` `AMAZON` `NODE JS` `TS` `REACT JS`
 ## Description 
-> Future app scrapes results from different websites `Jobs` `Courses` `Products`, that may do some processes & rendering it in an awesome interface.
+> Future app scrapes results from different websites `Jobs` `Courses` `Products`, that may do some processes & render it in an awesome interface.
 
 ## Mockups
 ![Vectary texture10](https://user-images.githubusercontent.com/46943991/148503443-e6bc2878-61e3-49ca-b090-4b11ed39a02e.png)
